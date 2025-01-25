@@ -1,2 +1,2 @@
-# main3010
-SENG3010
+# Project Group 6
+Rio S | Daquan J | David C
