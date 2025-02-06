@@ -2,7 +2,7 @@
 Rio S | Daquan J | David C
 
 
-# Logs 6/2 - Sixth of Febuary
+# Logs 6/2 - Sixth of February
 /*
 UPDATE - [assignment - UPDATED] Does not contain proper dumpall.sql file
 Phase 1 Remains Temporarily Incomplete; Working to fix
