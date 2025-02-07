@@ -6,7 +6,7 @@ Rio S | Daquan J | David C
 - Assignment (Obtained through Oracle VM) Contains _correct_ Files
     * Files Include Updated dumpall.sql && tar.gz
 - Phase 1 Progress - Awaiting Verification
-- Previous Guru Meditation Error Resolved - Instructor Assitance (?)
+- Previous Guru Meditation Error Resolved - Instructor Assitance
 
 */
 
