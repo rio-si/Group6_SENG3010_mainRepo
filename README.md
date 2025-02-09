@@ -4,7 +4,7 @@ Rio S | Daquan J | David C
 # Logs 9/2 - Seventh of February
 /*
 - Previous Updated dumpall.sql && tar.gz Remain Incomplete
-- Phase 1 Progress - ASuspended Temporarily
+- Phase 1 Progress - Suspended Temporarily
 - Work TBC on **Tenth of February**
   
 rio
