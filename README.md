@@ -1,7 +1,7 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
-# Logs 9/2 - Seventh of February
+# Logs 9/2 - Ninth of February
 /*
 - Previous Updated dumpall.sql && tar.gz Remain Incomplete
 - Phase 1 Progress - Suspended Temporarily
