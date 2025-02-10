@@ -3,6 +3,19 @@ Rio S | Daquan J | David C
 
 # Logs 9/2 - Ninth of February
 /*
+- Phase 2 Begun - Phase 1 Temporarily Defective
+  * Progress Must be Made to meet Deadlines
+- Apache Installed + Enabled CGI on Web-Server-VM
+- [SENG3010-configure-PGSQL-v4.docx] - Document is 90% Complete
+  * No route to host on the final command line - Purposeful?
+- ubuntu-sql-vm created
+- SAMPLE TEXT
+
+rio
+*/
+
+# Logs 9/2 - Ninth of February
+/*
 - Previous Updated dumpall.sql && tar.gz Remain Incomplete
 - Phase 1 Progress - Suspended Temporarily
 - Work TBC on **Tenth of February**
