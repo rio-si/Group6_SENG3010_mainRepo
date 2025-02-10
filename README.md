@@ -1,7 +1,7 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
-# Logs 9/2 - Ninth of February
+# Logs 10/2 - Tenth of February
 /*
 - Phase 2 Begun - Phase 1 Temporarily Defective
   * Progress Must be Made to meet Deadlines
