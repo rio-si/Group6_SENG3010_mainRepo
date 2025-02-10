@@ -9,7 +9,7 @@ Rio S | Daquan J | David C
 - [SENG3010-configure-PGSQL-v4.docx] - Document is 90% Complete
   * No route to host on the final command line - Purposeful?
 - ubuntu-sql-vm created
-- SAMPLE TEXT
+- Phase 2 on Step 5-6; TBC
 
 rio
 */
