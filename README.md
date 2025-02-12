@@ -10,9 +10,8 @@ PostgreSQL -> sudo apt install -y postgresql postgresql-contrib
 Python  -> sudo apt install -y python3 python3-pip
 Node.js -> sudo apt install -y nodejs npm
 Docker  -> sudo apt install -y docker.io
-
  ```
-- Sample Text
+- Basic HTML WebPage Created
   
 rio
 */
