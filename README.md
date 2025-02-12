@@ -1,6 +1,22 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
+# Logs 12/2 - Twelth of February
+/*
+- Additional Development Tools installed
+ ```
+sudo apt install -y vim nano curl wget git build-essential
+PostgreSQL -> sudo apt install -y postgresql postgresql-contrib
+Python  -> sudo apt install -y python3 python3-pip
+Node.js -> sudo apt install -y nodejs npm
+Docker  -> sudo apt install -y docker.io
+
+ ```
+- Sample Text
+  
+rio
+*/
+
 # Logs 10/2 - Tenth of February
 /*
 - Phase 2 Begun - Phase 1 Temporarily Defective
