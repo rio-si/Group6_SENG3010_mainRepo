@@ -12,6 +12,7 @@ Node.js -> sudo apt install -y nodejs npm
 Docker  -> sudo apt install -y docker.io
  ```
 - Basic HTML WebPage Created
+- Dashboard Files Added
   
 rio
 */
