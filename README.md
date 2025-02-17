@@ -1,6 +1,14 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
+# Logs 17/2 - Seventeenth of February
+/*
+- Web-VM Added Host Only Network
+- Ubuntu-VM Added Host Only Network
+  
+rio
+*/
+
 # Logs 12/2 - Twelfth of February
 /*
 - Additional Development Tools installed
