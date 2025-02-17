@@ -1,7 +1,7 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
-# Logs 12/2 - Twelth of February
+# Logs 12/2 - Twelfth of February
 /*
 - Additional Development Tools installed
  ```
