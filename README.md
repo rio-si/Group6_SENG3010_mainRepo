@@ -1,6 +1,13 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
+# Logs 18/2 - Eighteenth of February
+/*
+- Created "Phase 2" Branch
+  
+rio
+*/
+
 # Logs 17/2 - Seventeenth of February
 /*
 - Web-VM Added Host Only Network
