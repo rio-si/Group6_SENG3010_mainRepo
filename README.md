@@ -1,6 +1,13 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
+# Logs 20/2 - Twentieth of February
+/*
+- PgAdmin installed on ubuntu-sql VM
+  
+rio
+*/
+
 # Logs 18/2 - Eighteenth of February
 /*
 - Created "Phase 2" Branch
