@@ -12,6 +12,8 @@ Rio S | Daquan J | David C
       * login as faculty_db first: psql -U postgres -d faculty_db  
       * "psql -U postgres -d faculty_db -c "\COPY faculty FROM 'ecu-cs-dept-faculty.csv' DELIMITER ',' CSV HEADER;"
         * Modify for other Parameters
+  * Website Skeleton Added
+   * Temporary Addition, New Content Additions TBD 
       
 rio
 */
