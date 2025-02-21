@@ -17,7 +17,7 @@ rio
 */
 
 
-# Logs 20/2 - Twentieth of February
+# Logs 19/2 - Nineteenth of February
 /*
 - PgAdmin installed on ubuntu-sql VM
   
