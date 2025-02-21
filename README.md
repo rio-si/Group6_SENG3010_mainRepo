@@ -3,6 +3,22 @@ Rio S | Daquan J | David C
 
 # Logs 20/2 - Twentieth of February
 /*
+- Ran on Ubunutu-sql-vm:
+  * sudo apt update && sudo apt install -y vim git curl wget build-essential
+  * sudo apt install -y postgresql postgresql-contrib
+    * use "sudo systemctl start postgresql" for login
+    * use "nano faculty_db" to access and edit 
+  * Used this Command for importing data into the Database
+      * login as faculty_db first: psql -U postgres -d faculty_db  
+      * "psql -U postgres -d faculty_db -c "\COPY faculty FROM 'ecu-cs-dept-faculty.csv' DELIMITER ',' CSV HEADER;"
+        * Modify for other Parameters
+      
+rio
+*/
+
+
+# Logs 20/2 - Twentieth of February
+/*
 - PgAdmin installed on ubuntu-sql VM
   
 rio
