@@ -1,6 +1,16 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
+# Logs 23/2 - Twentythird of February
+/*
+- Will Review Class Videos
+- Work for Phase 2 Finalisation Will Continue 24/2
+- Plans to Temporarily Create a 2nd ubunutu-sql-vm for testing
+- Previous Command for importing data should be disregarded as defective
+  
+rio
+*/
+
 # Logs 20/2 - Twentieth of February
 /*
 - Ran on Ubunutu-sql-vm:
@@ -12,7 +22,7 @@ Rio S | Daquan J | David C
       * login as faculty_db first: psql -U postgres -d faculty_db  
       * "psql -U postgres -d faculty_db -c "\COPY faculty FROM 'ecu-cs-dept-faculty.csv' DELIMITER ',' CSV HEADER;"
         * Modify for other Parameters
-  * Website Skeleton Added
+ -  Website Skeleton Added
    * Temporary Addition, New Content Additions TBD 
       
 rio
