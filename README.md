@@ -1,7 +1,7 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
-# Logs 23/2 - Twentythird of February
+# Logs 23/2 - Twenty-Third of February
 /*
 - Will Review Class Videos
 - Work for Phase 2 Finalisation Will Continue 24/2
