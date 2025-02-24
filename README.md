@@ -1,6 +1,17 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
+# Logs 24/2 - Twenty-Fourth of Feb
+/*
+- Need to install code IDE for easier code space along with confidence in file saving
+- Need to work on getting into PGSQL
+- Review class lectures to find missed steps
+
+  
+  David
+*/
+
+
 # Logs 23/2 - Twenty-Third of February
 /*
 - Will Review Class Videos
