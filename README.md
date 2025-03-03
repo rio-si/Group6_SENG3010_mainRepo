@@ -5,9 +5,9 @@ Rio S | Daquan J | David C
 
 /*
 - Phase 1 ReDone [As per Group Consensus - In Progress]
-- Sample Text
+- ReDone-ubuntu-web-vm-rio Created
   * Sample Text
-- Sample Text
+- Snapshot will be taken once completed
   
 rio
 */
