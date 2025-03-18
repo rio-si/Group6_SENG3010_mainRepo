@@ -1,7 +1,31 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
-## Most Current Log 3/3 - March 3rd:
+## Most Current Log 3/18 - March 18th:
+
+/*
+- Phase 2 ReDone [In Progress]
+- ReDone-ubuntu-sql-vm created
+  * sudo apt update
+  * sudo apt install postgresql
+  * sudo systemctl start postgresql
+  * sudo systemctl enable postgresql
+  * sudo ufw allow proto tcp from 192.168.56.0/24 to any port 54
+    - Rules updated
+  * sudo nano /etc/postgresql/16/main/postgresql.conf
+    - Version 16 is used instead of Version 14
+  * Modified listen_adressess = '*'
+  * ss -nlt | grep 5432
+    - LISTEN 0   200   127.0.0.1:5432   0.0.0.0:*
+  * sudo service postgresql restart
+    - LISTEN 0   200   0.0.0.0:5432   0.0.0.0:*
+    - LISTEN 0   200      [::]:5432      [::]:*
+  * Snapshot "3/18 - Ch1" Taken
+  
+rio
+*/
+
+Log 3/3 - March 3rd:
 
 /*
 - Phase 1 ReDone [As per Group Consensus - Completed/NIR]
