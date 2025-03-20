@@ -8,6 +8,7 @@ Rio S | Daquan J | David C
 /*
 Allowed SQL-vm to communicate on port 5432 with command posted in SENG3010-configure-PGSQL-v4.docx
 Changed IP address on Web-VM to 192.168.56.10 instead of .....(.30) I Believe .30 is designated for the SQL-VM
+Had to revert back to 3/18 snapshot
   
 David
 */
