@@ -30,6 +30,24 @@ David
     - LISTEN 0   200   0.0.0.0:5432   0.0.0.0:*
     - LISTEN 0   200      [::]:5432      [::]:*
   * Snapshot "3/18 - Ch1" Taken
+  * Modified both: ReDone-ubuntu-sql-vm & ReDone-ubuntu-web-vm-rio
+    - Settings 2nd Network Adapter:
+      * IPv4 --> Manual:
+        - Address: 255.255.255.0
+        - Network: 192.168.56.30
+  * sudo -i -u postgres
+  * creatuser --interactive
+    - name: webuser1
+    - superuser: n
+  * psql: ALTER USER webuser1 WITH PASSWORD 'student';
+  * sudo nano /etc/postgresql/16/main/pg_hba.conf
+    - host all all 10.0.0.0/24 md5
+  * Modified webserverVM (ReDone-ubuntu-web-vm-rio)
+    - sudo apt install postgresql-client
+    - psql -h 192.168.56.30 -d testdb webuser1
+      * Error Connecting
+  * Progress Temporarily On Hold
+  * Snapshot "3/18 Ch2" Taken
   
 rio
 */
