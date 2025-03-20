@@ -12,6 +12,13 @@ Changed IP address on Web-VM to 192.168.56.10 instead of .....(.30) I Believe .3
 David
 */
 
+~
+~
+~
+Older Logs:
+
+Log 18/3 - March 18th:
+
 /*
 - Phase 2 ReDone [In Progress]
 - ReDone-ubuntu-sql-vm created
