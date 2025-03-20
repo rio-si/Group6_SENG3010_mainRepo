@@ -1,7 +1,15 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
-## Most Current Log 3/18 - March 18th:
+
+
+## Most Current Log 3/20 - March 20th:
+
+/*
+Allowed SQL-vm to communicate on port 5432 with command posted in SENG3010-configure-PGSQL-v4.docx
+  
+David
+*/
 
 /*
 - Phase 2 ReDone [In Progress]
