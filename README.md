@@ -1,9 +1,25 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
-
-
 ## Most Current Log 3/20 - March 20th:
+
+/*
+
+- Base "ReDone-ubuntu-sql-vm" created
+  * Network set:
+    - Address: 196.168.56.30
+    - Netmask: 255.255.255.0
+- TBC
+
+rio
+*/
+
+~
+~
+~
+Older Logs:
+
+Log 3/20 - March 20th:
 
 /*
 Allowed SQL-vm to communicate on port 5432 with command posted in SENG3010-configure-PGSQL-v4.docx
@@ -18,11 +34,6 @@ David
 
 rio
 */
-
-~
-~
-~
-Older Logs:
 
 Log 18/3 - March 18th:
 
