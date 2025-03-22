@@ -4,8 +4,7 @@ Rio S | Daquan J | David C
 ## Most Current Log 3/21 - March 21st:
 
 /*
-
-- Base "ReDone-ubuntu-sql-vm" created
+- Base "ReDone-ubuntu-sql-vm" created (Again?)
   * Network set:
     - Address: 196.168.56.30
     - Netmask: 255.255.255.0
