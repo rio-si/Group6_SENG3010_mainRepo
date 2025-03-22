@@ -4,11 +4,18 @@ Rio S | Daquan J | David C
 ## Most Current Log 3/21 - March 21st:
 
 /*
-- Base "ReDone-ubuntu-sql-vm" created (Again?)
+- Reverted Back to Snapshot
+  * To Avoid Unlogged Errors Encountered from Team Members
+- Base "ReDone-ubuntu-sql-vm-rio" created (Again?)
   * Network set:
     - Address: 196.168.56.30
     - Netmask: 255.255.255.0
-- TBC
+- ReDone-ubuntu-web-vm-rio
+  * Network set:
+    - Address: 192.168.56.10
+    - Netmask: 255.255.255.0
+ - Redid all VM steps for sql-vm
+ - Error Connecting
 
 rio
 */
@@ -51,24 +58,27 @@ Log 18/3 - March 18th:
   * ss -nlt | grep 5432
     - LISTEN 0   200   127.0.0.1:5432   0.0.0.0:*
   * sudo service postgresql restart
+  * ss -nlt | grep 5432
     - LISTEN 0   200   0.0.0.0:5432   0.0.0.0:*
     - LISTEN 0   200      [::]:5432      [::]:*
   * Snapshot "3/18 - Ch1" Taken
   * Modified both: ReDone-ubuntu-sql-vm & ReDone-ubuntu-web-vm-rio
     - Settings 2nd Network Adapter:
       * IPv4 --> Manual:
-        - Address: 255.255.255.0
-        - Network: 192.168.56.30
+        - Address: 192.168.56.30
+        - Network: 255.255.255.0
   * sudo -i -u postgres
-  * creatuser --interactive
+  * createuser --interactive
     - name: webuser1
     - superuser: n
-  * psql: ALTER USER webuser1 WITH PASSWORD 'student';
+  * ALTER USER webuser1 WITH PASSWORD 'student';
+  * psql (\q to quit)
+  * exit to exit postgres
   * sudo nano /etc/postgresql/16/main/pg_hba.conf
     - host all all 10.0.0.0/24 md5
   * Modified webserverVM (ReDone-ubuntu-web-vm-rio)
     - sudo apt install postgresql-client
-    - psql -h 192.168.56.30 -d testdb webuser1
+    - psql -h 192.168.56.30 -d testdb -U webuser1
       * Error Connecting
   * Progress Temporarily On Hold
   * Snapshot "3/18 Ch2" Taken
@@ -83,7 +93,7 @@ Log 3/3 - March 3rd:
 - ReDone-ubuntu-web-vm-rio Created
 - PostgreSQL Installed
   * sudo apt update used beforehand
-  - Started & anable PostgreSQL using:
+  - Started & enabled PostgreSQL using:
     * sudo systemctl start postgresql
     * sudo systemctl enable postgresql
   - Use "sudo -i -u postgres" For logging into postgres
