@@ -4,6 +4,20 @@ Rio S | Daquan J | David C
 ## Most Current Log 3/21 - March 21st:
 
 /*
+- Snapshot Taken of VM before Working
+- In pg_hba.conf of "ReDone-ubuntu-sql-vm-rio"
+  - Changed “10.0.0.0/24” to “192.168.56.0/24”
+- Sample Text - TBC
+
+rio
+*/
+
+~
+~
+~
+Older Logs:
+
+/*
 - Reverted Back to Snapshot
   * To Avoid Unlogged Errors Encountered from Team Members
 - Base "ReDone-ubuntu-sql-vm-rio" created (Again?)
@@ -19,11 +33,6 @@ Rio S | Daquan J | David C
 
 rio
 */
-
-~
-~
-~
-Older Logs:
 
 Log 3/20 - March 20th:
 
@@ -102,14 +111,14 @@ Log 3/3 - March 3rd:
       * using "CREATE DATABASE test_db"
         * Use "\c test_db" to access database
     * "\q" to exit psql bash
-    * "exit" to exit PostgreSQL user
+    * "exit" to exit the PostgreSQL user
 - Student Directory Recreated
   * Used "R_Assignment" rather than "Assignment" to distinguish
     * Using Version 16 of PostgreSQL (Issue?)
   - pg_dumpall backup created
-    * Used "sudo -i -u postgres pg_dumpall ? /tmp/R-dbsrv-bak-pg-sumpall.sql"
+    * Used "sudo -i -u postgres pg_dumpall? /tmp/R-dbsrv-bak-pg-sumpall.sql"
       - Then "mv /tmp/R-dbsrv-bak-pg-sumpall/sql /hom/student/R_assignment/dbsrv/" to move file
-  - Tar backup created
+  - Tar backup was created
     * Used "cd /home/student"
     * then "sudo tar -czvf R-team6-bak-tar.gz R_assignment"
     * then "mv R-team6-bak.tar.gz /home/student/R_assignment/"
