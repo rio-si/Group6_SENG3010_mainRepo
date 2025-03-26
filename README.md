@@ -1,13 +1,37 @@
 # Project Group 6 - SENG3010
 Rio S | Daquan J | David C
 
-## Most Current Log 3/21 - March 21st:
+## Most Current Log 3/26 - March 26th:
 
 /*
 - Snapshot Taken of VM before Working
 - In pg_hba.conf of "ReDone-ubuntu-sql-vm-rio"
   - Changed “10.0.0.0/24” to “192.168.56.0/24”
-- Sample Text - TBC
+- In ReDone-ubuntu-sql-vm-rio
+  - sudo -i -u postgres
+  - psql
+  - CREATE DATABASE csdashboard;
+  - \c csdashboard
+  - CREATE TABLE FACULTY(
+      ID SERIAL PRIMARY KEY,
+      Honorific VARCHAR(10),
+      First VARCHAR(50),
+      MI CHAR(1),
+      Last VARCHAR(50),
+      Email VARCHAR(100) UNIQUE,
+      Phone VARCHAR(20),
+      Office VARCHAR(50),
+      Research_Interests TEXT,
+      Rank VARCHAR(50),
+      Remarks TEXT,
+      Currently_Employed BOOLEAN
+    );
+- Snapshot 3/26 taken
+- In ReDone-ubuntu-web-vm
+  - sudo apt install apache2
+  - sudo a2enmod cgid
+  - sudo apt install python3-pip
+  - Snapshot 3/26 taken
 
 rio
 */
