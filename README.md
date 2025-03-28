@@ -1,7 +1,23 @@
 # Project Group 6 - SENG3010
-Rio S | Daquan J | David C
+rio S | Daquan J | David C
 
-## Most Current Log 3/26 - March 26th:
+## Most Current Log 3/28 - March 28th:
+
+/*
+- In ReDone-ubunutu-web-vm-rio
+  - psql -h 192.168.56.30 -d csdashbaord -U webuser1 [SUCCESSFUL]
+  - sudo apt install openssh-server
+  - ssh 192.168.0.20
+
+rio
+*/
+
+~
+~
+~
+Older Logs:
+
+Log 3/26 - March 26th:
 
 /*
 - Snapshot Taken of VM before Working
@@ -35,11 +51,6 @@ Rio S | Daquan J | David C
 
 rio
 */
-
-~
-~
-~
-Older Logs:
 
 Log 3/21 - March 21st:
 
