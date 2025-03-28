@@ -8,6 +8,11 @@ rio S | Daquan J | David C
   - psql -h 192.168.56.30 -d csdashbaord -U webuser1 [SUCCESSFUL]
   - sudo apt install openssh-server
   - ssh 192.168.0.20
+- In ReDone-ubunutu-sql-vm-rio
+  - pg_dumpall created "rio-phase-two-dumpall.sql"
+- Issues To Work On:
+  - Issues Importing CSV file
+  - Issues Adding Permissions
 
 rio
 */
@@ -153,8 +158,8 @@ Log 3/3 - March 3rd:
   * Used "R_Assignment" rather than "Assignment" to distinguish
     * Using Version 16 of PostgreSQL (Issue?)
   - pg_dumpall backup created
-    * Used "sudo -i -u postgres pg_dumpall? /tmp/R-dbsrv-bak-pg-sumpall.sql"
-      - Then "mv /tmp/R-dbsrv-bak-pg-sumpall/sql /hom/student/R_assignment/dbsrv/" to move file
+    * Used "sudo -i -u postgres pg_dumpall /tmp/R-dbsrv-bak-pg-dumpall.sql"
+      - Then "mv /tmp/R-dbsrv-bak-pg-sumpall/sql /home/student/R_assignment/dbsrv/" to move file
   - Tar backup was created
     * Used "cd /home/student"
     * then "sudo tar -czvf R-team6-bak-tar.gz R_assignment"
