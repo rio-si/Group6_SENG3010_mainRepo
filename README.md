@@ -13,6 +13,22 @@ rio S | Daquan J | David C
 - Issues To Work On:
   - Issues Importing CSV file
   - Issues Adding Permissions
+- Snapshot of main VM taken - Before Phase 3 Initiation
+- In ReDone-ubunutu-sql-vm-rio
+  - hostname
+    - student-re-sql-vm
+  - sudo hostnamectl set-hostname pgsql
+  - hostname
+    - pgsql
+  - 3/28 snapshot taken
+- In ReDone-ubunutu-web-vm-rio
+  - student-R-web-vm
+  - sudo hostnamectl set-hostname websrv
+  - hostname
+    - websrv
+  - 3/28 snapshot taken
+- EcuCsDashBaordTemplate-rio-sort2 Created
+  - Mock Skeleton Website with Sort Function 
 
 rio
 */
