@@ -29,6 +29,8 @@ rio S | Daquan J | David C
   - 3/28 snapshot taken
 - EcuCsDashBaordTemplate-rio-sort2 Created
   - Mock Skeleton Website with Sort Function 
+- dumpall.sql off "ReDone-ubuntu-web-vm-rio" taken
+- dumpall.sql off "ReDone-ubuntu-sql-vm-rio" taken
 
 rio
 */
