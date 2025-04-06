@@ -1,7 +1,24 @@
 # Project Group 6 - SENG3010
 rio S | Daquan J | David C
 
-## Most Current Log 3/28 - March 28th:
+## Most Current Log 4/5 - April 4th:
+/*
+- Reviewed "Linkedin video Postgresql"
+- In ReDone-ubuntu-sql-vm-rio
+  - sudo -i -u postgres
+  - psql
+  - CREATE DATABASE csdashboard;
+  - \c csdashboard
+  - CREATE TABLE faculty(ID SERIAL PRIMARY KEY, Honorific VARCHAR(10), First VARCHAR(50), MI CHAR(1), Last VARCHAR(50), Email VARCHAR(100) UNIQUE, Phone VARCHAR(20), Office VARCHAR(50), Research_Interests TEXT, Rank VARCHAR(50), Remarks TEXT, Currently_Employed BOOLEAN);
+- Modded "ecu-cs-deot-faculty.csv"
+  - New Copy "r-ecu-cs-dept-faculty.csv"
+    * Research Interests --> Research_Interests
+    * Currently Employed --> Currently_Employed
+
+rio
+*/
+
+Log 3/28 - March 28th:
 
 /*
 - In ReDone-ubunutu-web-vm-rio
