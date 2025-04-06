@@ -22,7 +22,10 @@ rio S | Daquan J | David C
   - sudo apt install net-tools
   - sudo -u postgres psql
   - alter user postgres with password 'student';
-  - Server Added in PgAdmin 4 known as 'pgsql'
+  - Server added in PgAdmin 4 known as 'pgsql'
+  - Note Two Table:
+    - csdashboard & Faculty
+  - Imported CSV Information
   - Snapshot 4/5 Taken
 
 rio
