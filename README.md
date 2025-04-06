@@ -19,6 +19,11 @@ rio S | Daquan J | David C
   - sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
   - sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
   - sudo apt install pgadmin4
+  - sudo apt install net-tools
+  - sudo -u postgres psql
+  - alter user postgres with password 'student';
+  - Server Added in PgAdmin 4 known as 'pgsql'
+  - Snapshot 4/5 Taken
 
 rio
 */
@@ -56,8 +61,8 @@ Log 3/28 - March 28th:
   - 3/28 snapshot taken
 - EcuCsDashBaordTemplate-rio-sort2 Created
   - Mock Skeleton Website with Sort Function 
-- dumpall.sql off "ReDone-ubuntu-web-vm-rio" taken
-- dumpall.sql off "ReDone-ubuntu-sql-vm-rio" taken
+- dumpall.sql of "ReDone-ubuntu-web-vm-rio" taken
+- dumpall.sql of "ReDone-ubuntu-sql-vm-rio" taken
 
 rio
 */
