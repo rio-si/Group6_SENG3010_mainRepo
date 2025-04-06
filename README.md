@@ -9,14 +9,24 @@ rio S | Daquan J | David C
   - psql
   - CREATE DATABASE csdashboard;
   - \c csdashboard
-  - CREATE TABLE faculty(ID SERIAL PRIMARY KEY, Honorific VARCHAR(10), First VARCHAR(50), MI CHAR(1), Last VARCHAR(50), Email VARCHAR(100) UNIQUE, Phone VARCHAR(20), Office VARCHAR(50), Research_Interests TEXT, Rank VARCHAR(50), Remarks TEXT, Currently_Employed BOOLEAN);
+  - CREATE TABLE csdashboard(ID SERIAL PRIMARY KEY, Honorific VARCHAR(10), First VARCHAR(50), MI CHAR(1), Last VARCHAR(50), Email VARCHAR(100) UNIQUE, Phone VARCHAR(20), Office VARCHAR(50), Research_Interests TEXT, Rank VARCHAR(50), Remarks TEXT, Currently_Employed BOOLEAN);
 - Modded "ecu-cs-deot-faculty.csv"
   - New Copy "r-ecu-cs-dept-faculty.csv"
     * Research Interests --> Research_Interests
     * Currently Employed --> Currently_Employed
+  - sudo snap install docker (Version 27.5.1)
+  - sudo apt install curl
+  - sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  - sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+  - sudo apt install pgadmin4
 
 rio
 */
+
+~
+~
+~
+Older Logs:
 
 Log 3/28 - March 28th:
 
@@ -51,11 +61,6 @@ Log 3/28 - March 28th:
 
 rio
 */
-
-~
-~
-~
-Older Logs:
 
 Log 3/26 - March 26th:
 
