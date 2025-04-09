@@ -15,7 +15,7 @@ ID,Honorific,First,MI,Last,Email,Phone,Office,Research_Interests,Rank,Remarks,Cu
 14,Mr.,Joel,,Sweatte,sweattej@ecu.edu,252-328-9439,Sci-Tech C112,"Data Center Virtualization, Cloud Computing, Mainframe Platform Computing, Storage Management",Instructor,,Yes
 15,Dr.,Nasseh,,Tabrizi,tabrizim@ecu.edu,252-328-9691,Sci-Tech C112,"Big Data Analytics, Cloud Computing, Computer Vision, Software Requirement Engineering, Information Retrieval, Virtual Reality, Machine Learning, Computer Science and Software Engineering Education",Professor,,Yes
 16,Dr.,Rui,,Wu,wur18@ecu.edu,252-328-9682,Sci-Tech C107,"Data Processing and Visualization, Interdisciplinary Research",Assistant Professor,,Yes
-17,Dr.,Patyi,,Imre,patyii@ecu.edu,252-328-6461,,,Associate Professor,No,
+17,Dr.,Patyi,,Imre,patyii@ecu.edu,252-328-6461,,,Associate Professor,,No
 18,Ms.,Sumati,R,Kulkarni,,,,,Teaching Assistant,,No
 19,Ms.,Logan,G,Childers,,,,,Teaching Assistant,,No
 20,Mr.,Gregory,,Knight,,,,,Adjunct Instructor,,No
