@@ -17,8 +17,9 @@ rio S | Daquan J | David C
 -Plan to push pace on phase 3 in order to complete final phase in acceptable timeline
 -Snapshot taken on WebVM
 
-*/
 David
+*/
+
 
 ## Most Current Log 4/5 - April 4th:
 /*
