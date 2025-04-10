@@ -1,6 +1,25 @@
 # Project Group 6 - SENG3010
 rio S | Daquan J | David C
 
+## Most Current Log 4/10 - April 10th:
+/*
+
+-Worked on all tasks night of April 9th
+-Edited the py-connect-pgdb.py file
+-Issues with editing file correctly using direct file editor instead of sudo nano home/student/downloads/py-connect-pgdb.py
+-Edited file and then "cp py-connect-pgdb.py /usr/lib/cgi-bin/"
+  -This allowed the newest edit of the py-connect file to be ran with apache
+-Webpage is up and running with the csdashboard database
+  -IMPORTANT**
+    -The correct and running database is "csdashboard" with password "student"
+-Further styling edits need to be made to the webpage but this is a minimal task as this is the end of Phase 2
+-Meeting scheduled with professor to determine further actions in preparing for the 3rd phase. 
+-Plan to push pace on phase 3 in order to complete final phase in acceptable timeline
+-Snapshot taken on WebVM
+
+*/
+David
+
 ## Most Current Log 4/5 - April 4th:
 /*
 - Reviewed "Linkedin video Postgresql"
