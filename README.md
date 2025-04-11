@@ -20,8 +20,12 @@ rio S | Daquan J | David C
 David
 */
 
+~
+~
+~
+Older Logs:
 
-## Most Current Log 4/5 - April 4th:
+Log 4/5 - April 4th:
 /*
 - Reviewed "Linkedin video Postgresql"
 - In ReDone-ubuntu-sql-vm-rio
@@ -50,11 +54,6 @@ David
 
 rio
 */
-
-~
-~
-~
-Older Logs:
 
 Log 3/28 - March 28th:
 
