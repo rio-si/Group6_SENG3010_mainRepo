@@ -1,7 +1,26 @@
 # Project Group 6 - SENG3010
 rio S | Daquan J | David C
 
-## Most Current Log 4/10 - April 10th:
+
+## Most Current Log 4/17 - April 10th:
+
+
+*/
+
+Created faculty table under database "csdashboard" and displayed data from table onto website using file ** py-connect-pgdb.py ** from directory /usr/lib/cgi-bin/
+
+To run file prompt **  ./py-connect-pgdb.py  ** in the terminal 
+
+use sudo nano py-connect-pgdb.py OR courses.py to edit eithier file
+
+Created new database "courses" and made table "course"
+
+Currently have courses.py working. It lists the courses as a table after navigating to it through the nav bar inserted into py-connect file
+
+To complete phase 3 professors assitance on the FTE page will be needed. Need context on FTE and how to incorperate the calculations. 
+
+
+-David
 /*
 
 -Worked on all tasks night of April 9th
