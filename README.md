@@ -20,6 +20,7 @@ rio S | Daquan J | David C
   - The Dockerfile (Simply Named "Dockerfile"), is Located in the "group_six_csdashboard" Folder
   - "https://docs.docker.com/reference/dockerfile/" Used for Dockerfile Reference/Creation
 - docker build -t group_six_csdashboard .
+  - Possible Command: docker run -d -p 5432:5432 group_six_csdashboard OR docker run -d -p 5432:5432 group_six_csdashboard:linux
 - Work Suspended - Docker Container Creation/Finalisation is NOT complete
 - All Work is still WIP / TESTING [NOT FINAL PRODUCT]
 
