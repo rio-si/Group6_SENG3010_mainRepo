@@ -1,8 +1,34 @@
 # Project Group 6 - SENG3010
 rio S | Daquan J | David C
 
+## Most Current Log 4/21 - April 21st:
+/*
+- Snapshot of Main VM Taken
+- Reviewed LinkedIn Docker Videos
+- In ReDone-ubuntu-web-vm-rio
+- sudo apt install curl
+- curl -o /tmp/get-docker.sh https://get.docker.com
+- systemctl start docker
+- sh /tmp/get-docker.sh
+- sudo groupadd docker
+- sudo usermod -aG docker $USER
+- newgrp docker
+- docker run hello-world [SUCCESS]
+- docker ps --all (View all Containers)
+- cd ~/group_six_csdashboard 
+- nano Dockerfile (See File for Specifics)
+- docker build -t my_pg_container .
+- All Work is still WIP / TESTING [NOT FINAL PRODUCT]
 
-## Most Current Log 4/17 - April 10th:
+rio
+*/
+
+~
+~
+~
+Older Logs:
+
+4/17 - April 17th:
 
 
 */
@@ -38,11 +64,6 @@ To complete phase 3 professors assitance on the FTE page will be needed. Need co
 
 David
 */
-
-~
-~
-~
-Older Logs:
 
 Log 4/5 - April 4th:
 /*
