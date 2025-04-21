@@ -20,6 +20,7 @@ rio S | Daquan J | David C
   - The Dockerfile (Simply Named "Dockerfile"), is Located in the "group_six_csdashboard" Folder
   - "https://docs.docker.com/reference/dockerfile/" Used for Dockerfile Reference/Creation
 - docker build -t my_pg_container .
+- Work Suspended - Docker Container Creation/Finalisation is NOT complete
 - All Work is still WIP / TESTING [NOT FINAL PRODUCT]
 
 rio
