@@ -17,6 +17,7 @@ rio S | Daquan J | David C
 - docker ps --all (View all Containers)
 - cd ~/group_six_csdashboard 
 - nano Dockerfile (See File for Specifics)
+  - The Dockerfile (Simply Named "Dockerfile"), is Located in the "group_six_csdashboard" Folder
 - docker build -t my_pg_container .
 - All Work is still WIP / TESTING [NOT FINAL PRODUCT]
 
