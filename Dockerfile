@@ -1,3 +1,7 @@
+###
+[This is a .txt file // Use group_six_csdashboard.dockerfile Instead]
+###
+
 FROM ubuntu:22.04
 
 ENV DEBIAN_FRONTEND=noninteractive
