@@ -5,7 +5,7 @@ Docker Run Command [WIP]:
 
 /*
 
-docker run --hostname=45944f478735 --env=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin --env=APP_UID=1654 --env=ASPNETCORE_HTTP_PORTS=8080 --env=DOTNET_RUNNING_IN_CONTAINER=true --env=DOTNET_VERSION=9.0.4 --env=ASPNET_VERSION=9.0.4 --network=bridge --workdir=/app --restart=no --runtime=runc -d docker-rio:latest
+docker run --hostname=45944f478735 --mac-address=52:49:bd:9b:70:9b --env=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin --env=APP_UID=1654 --env=ASPNETCORE_HTTP_PORTS=8080 --env=DOTNET_RUNNING_IN_CONTAINER=true --env=DOTNET_VERSION=9.0.4 --env=ASPNET_VERSION=9.0.4 --network=bridge --workdir=/app --restart=no --runtime=runc -d docker-rio:latest
 
 */
 
