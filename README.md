@@ -1,7 +1,7 @@
 # Project Group 6 - SENG3010
 rio S | Daquan J | David C
 
-Docker Run Command: 
+Docker Run Command [WIP]: 
 
 /*
 
